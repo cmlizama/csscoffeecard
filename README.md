@@ -1,0 +1,1 @@
+Many thanks to: http://www.samuelrossille.com/css-shape/
